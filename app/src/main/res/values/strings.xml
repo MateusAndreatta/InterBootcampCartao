@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cartão Fidelidade</string>
+    <string name="description">Descrição</string>
+    <string name="client_name">Nome do cliente</string>
+    <string name="company_name">Nome da empresa</string>
+    <string name="label_share_to">Compartilhar</string>
+</resources>
